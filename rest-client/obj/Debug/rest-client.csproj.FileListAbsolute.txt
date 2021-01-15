@@ -1,0 +1,9 @@
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\bin\Debug\rest-client.exe.config
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\bin\Debug\rest-client.exe
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\bin\Debug\rest-client.pdb
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\obj\Debug\rest-client.csprojResolveAssemblyReference.cache
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\obj\Debug\rest_client.ClientForm.resources
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\obj\Debug\rest_client.Properties.Resources.resources
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\obj\Debug\rest-client.csproj.GenerateResource.Cache
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\obj\Debug\rest-client.exe
+C:\Users\Waqas\Desktop\WNS_C2\rest-client\obj\Debug\rest-client.pdb

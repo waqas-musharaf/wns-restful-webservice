@@ -1,0 +1,3 @@
+To run:
+
+Please start rest-service.py first before starting rest-client.exe / running rest-client.sln
