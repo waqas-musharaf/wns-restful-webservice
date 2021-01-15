@@ -72,7 +72,7 @@ class NoWord_Dictionary(Resource):
 class Location(Resource):
 	def get(self,ip):
 		# Hard-coded API Token associated with my IPInfo API account
-		token = "86ab1ccc7cdae7"
+		token = ""
 		
 		# Performs 'GET' request from API URL provided, in conjunction with API Token and user-provided search IP address
 		url = "https://ipinfo.io/" + ip + "?token=" + token
@@ -93,7 +93,7 @@ class Location(Resource):
 class My_Location(Resource):
 	def get(self):
 		# Hard-coded API Token associated with my IPInfo API account
-		token = "86ab1ccc7cdae7"
+		token = ""
 		
 		# Performs 'GET' request from API URL provided, in conjunction with API Token
 		url = "https://ipinfo.io/?token=" + token
