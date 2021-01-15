@@ -33,8 +33,8 @@ class CatFact(Resource):
 class Dictionary(Resource):		
 	def get(self, word):
 		# Hard-coded API ID and API Key associated with my Oxford Dictionary API account 
-		app_id  = "48472ea1"
-		app_key  = "a9192010c71d6aa83ee2c72a18acf819"
+		app_id  = ""
+		app_key  = ""
 		
 		# Performs 'GET' request from API URL provided, in conjunction with API ID, API Key and user-provided search term
 		url = "https://od-api.oxforddictionaries.com/api/v2/entries/en-us/" + word.lower()
